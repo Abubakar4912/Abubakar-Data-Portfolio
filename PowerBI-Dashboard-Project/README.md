@@ -34,7 +34,6 @@ The purpose is to analyze KPIs, create visual insights, and help business teams 
 ## 📁 Included Files
 - `.pbix` dashboard file  
 - Excel dataset  
-- Dashboard screenshots  
 
 ---
 
