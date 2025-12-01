@@ -1,47 +1,41 @@
-Clinic Analytics Dashboard
+# 📌 Clinic Analytics Dashboard
 
- Project Overview
-
+## 📍 Project Overview  
 This project analyzes clinic performance by visualizing patient visits, revenue, doctor efficiency, and appointment trends using Power BI.
 
- Tools Used
+---
 
-Power BI
+## 🔧 Tools Used
+- **Power BI**
+- **Excel**
+- **DAX**
 
-Excel
+---
 
-DAX
+## 📝 Steps Taken
+- Cleaned and formatted raw patient data  
+- Performed data modeling & created relationships  
+- Built DAX measures for KPIs  
+- Designed interactive dashboard visuals  
+- Added slicers for doctors, departments, and dates  
 
-Steps Taken
+---
 
-Cleaned and formatted raw patient data
+## 📊 Key Insights
+- Identified peak visiting hours and days  
+- Compared doctor performance  
+- Analyzed revenue patterns  
+- Found appointment no-show trends  
 
-Performed data modeling & relationships
+---
 
-Created DAX measures for KPIs
+## 📁 Included Files
+- `clinic_dashboard.pbix`  
+- Dataset (Excel/CSV)  
+- Dashboard screenshots  
 
-Designed interactive dashboard visuals
+---
 
-Added filters for doctors, departments, and dates
+## 🎯 Purpose  
+To help clinic management make data-driven decisions and improve clinic performance.
 
- Key Insights
-
-Peak visiting hours and days
-
-Doctor performance comparison
-
-Appointment no-show patterns
-
-Revenue trends across services
-
- Files Included
-
-clinic_dashboard.pbix
-
-Dashboard screenshots
-
-Dataset (Excel/CSV)
-
- Purpose
-
-To help clinic management make data-driven decisions and improve operational efficiency.
