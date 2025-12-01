@@ -32,9 +32,6 @@ This project analyzes e-commerce sales, customer segments, order patterns, and r
 - `ecommerce_dashboard.pbix`  
 - SQL query scripts  
 - Dataset (Excel/CSV)  
-- Dashboard screenshots  
-
----
 
 ## 🎯 Purpose  
 To help e-commerce businesses understand sales performance and customer behavior to make better business decisions.
