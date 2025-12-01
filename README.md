@@ -10,19 +10,19 @@ Each project includes documentation, dashboards, datasets, and insights.
 
 ### 1️⃣ **Clinic Analytics Dashboard**
 📌 A Power BI dashboard analyzing patient visits, revenue, doctor performance, and appointment trends.  
-👉 **Folder:** [`Clinic-Analytics-Dashboard`](Clinic-Analytics-Dashboard)
+👉  [`Clinic-Analytics-Dashboard`](Clinic-Analytics-Dashboard)
 
 ---
 
 ### 2️⃣ **E-commerce Analytics Project**
 📌 End-to-end analysis of e-commerce sales, customer behavior, and revenue trends using SQL + Power BI.  
-👉 **Folder:** [`Ecommerce-Analytics-Project`](Ecommerce-Analytics-Project)
+👉  [`Ecommerce-Analytics-Project`](Ecommerce-Analytics-Project)
 
 ---
 
 ### 3️⃣ **Power BI Dashboard Project**
 📌 Full business dashboard with KPIs, interactive visuals, and DAX measures.  
-👉 **Folder:** [`PowerBI-Dashboard-Project`](PowerBI-Dashboard-Project)
+👉  [`PowerBI-Dashboard-Project`](PowerBI-Dashboard-Project)
 
 ---
 
@@ -37,9 +37,8 @@ Each project includes documentation, dashboards, datasets, and insights.
 ---
 
 ## 📬 Contact  
-📧 **Email:** abubakar.siddik@gmail.com (or your email if different)  
-🔗 **LinkedIn:** *(add link here)*  
-🔗 **Portfolio (Notion):** *coming soon*
+📧 **Email:** abubakarsiddik4912@gmail.com 
+🔗 **LinkedIn:** www.linkedin.com/in/abubakar-siddik-84159634a
 
 ---
 
