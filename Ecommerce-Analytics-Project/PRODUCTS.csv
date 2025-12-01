@@ -1,0 +1,21 @@
+"product_id";"product_name";"category";"subcategory";"price";"cost"
+"P001";"Samsung Galaxy A54";"Electronics";"Mobiles";28999.0;22000.0
+"P002";"Apple iPhone 13";"Electronics";"Mobiles";59999.0;49000.0
+"P003";"Redmi Note 12";"Electronics";"Mobiles";16999.0;12000.0
+"P004";"HP Pavilion Laptop";"Electronics";"Laptops";55999.0;45000.0
+"P005";"Lenovo Ideapad Slim";"Electronics";"Laptops";42999.0;35000.0
+"P006";"Nike Running Shoes";"Fashion";"Footwear";3999.0;2200.0
+"P007";"Adidas Sports Shoes";"Fashion";"Footwear";4499.0;2600.0
+"P008";"Men Cotton T-Shirt";"Fashion";"Clothing";799.0;300.0
+"P009";"Women Kurti Set";"Fashion";"Clothing";1299.0;600.0
+"P010";"Levis Denim Jeans";"Fashion";"Clothing";2799.0;1500.0
+"P011";"Mixer Grinder 750W";"Home Appliances";"Kitchen";3499.0;2500.0
+"P012";"Prestige Electric Kettle";"Home Appliances";"Kitchen";1299.0;700.0
+"P013";"Philips Air Fryer";"Home Appliances";"Kitchen";8999.0;6500.0
+"P014";"Bajaj Room Heater";"Home Appliances";"Heating";2499.0;1700.0
+"P015";"LED Table Lamp";"Home Appliances";"Lighting";899.0;450.0
+"P016";"Mamaearth Face Cream";"Beauty";"Skin Care";499.0;250.0
+"P017";"Maybelline Lipstick";"Beauty";"Makeup";399.0;150.0
+"P018";"Beardo Beard Oil";"Beauty";"Grooming";299.0;120.0
+"P019";"Titan Wrist Watch";"Accessories";"Watches";4999.0;3200.0
+"P020";"Boat Airdopes 171";"Electronics";"Audio";1499.0;800.0
